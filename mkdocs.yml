@@ -1,0 +1,26 @@
+site_name: SQLite for Mere Mortals
+site_description: Plain-language SQLite — the database that is a file: real SQL, keys and constraints, indexes measured, transactions, JSON documents, and honest limits.
+site_url: https://paulsullivan33-dev.github.io/sqlite-for-mere-mortals/
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What SQLite Is: what-sqlite-is.md
+  - Your First Database: first-database.md
+  - Querying: querying.md
+  - Keys and Constraints: keys-and-constraints.md
+  - Joins: joins.md
+  - Indexes and Speed: indexes-and-speed.md
+  - Changing Data Safely: changing-data-safely.md
+  - SQLite Quirks: sqlite-quirks.md
+  - JSON in SQLite: json-in-sqlite.md
+  - Files, Backups, and Care: files-backups-and-care.md
+  - From Code: from-code.md
+  - When Not to Use SQLite: when-not-sqlite.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md
