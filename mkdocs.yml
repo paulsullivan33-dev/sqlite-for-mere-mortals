@@ -1,5 +1,5 @@
 site_name: SQLite for Mere Mortals
-site_description: Plain-language SQLite — the database that is a file: real SQL, keys and constraints, indexes measured, transactions, JSON documents, and honest limits.
+site_description: Plain-language SQLite, the database that is a file. Real SQL, keys and constraints, indexes measured, transactions, JSON documents, and honest limits.
 site_url: https://paulsullivan33-dev.github.io/sqlite-for-mere-mortals/
 
 # Guides live at the repo root (nice for GitHub browsing).
